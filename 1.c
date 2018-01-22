@@ -10,7 +10,7 @@ if(n>0)
 {
 printf("the given number is positive");
 }
-else if(n<0)
+else if(n>0)
 {
 printf("the number is negative");
 }
