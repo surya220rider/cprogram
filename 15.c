@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include<conio.h>
 int main(void) {
 	int i,l,u;
 	scanf("%d %d",&l,&u);
@@ -7,6 +7,5 @@ int main(void) {
 	{
 		if(i%2==0)
 		printf("%d ",i);
-	}
-	return 0;
+getch()
 }
