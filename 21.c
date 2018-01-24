@@ -10,5 +10,5 @@ sum=temp;
 k=k+d;
 }
 printf("%d",temp);
-return 0;
+return0;
 }
