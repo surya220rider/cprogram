@@ -3,7 +3,7 @@
 int main()
 {
 char a[30];
-int o,b=0;
+int j,b=0;
 printf("enter the string\n");
 scanf("%s",&a);
 for(j=0;a[j]=0;j++)
