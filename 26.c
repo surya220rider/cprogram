@@ -22,5 +22,5 @@ a[j]=t;
 }
 }
 for(i=0;i<n;i++)
-printf("%ld ",a[i]);
+ printf("%ld ",a[i]);
 }
