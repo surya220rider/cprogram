@@ -16,7 +16,7 @@ for(j=i+1;j<m;j++)
 {
 if(a[i]>a[j])
 {
-t=a[i];
+   t=a[i];
 a[i]=a[j];
 a[i]=t;
 }
