@@ -2,16 +2,16 @@
 #include<string.h>
 int main()
 {
-int i,c=0;
+int i,j=0;
 char a[50];
 gets(a);
 for(i=0;a[i]!='\0';i++)
 {
 if(a[i]!='\0')
 {
-c++;
+j++;
 }
 }
-printf("%d",c+1);
+printf("%d",j+1);
 return 0;
 }
