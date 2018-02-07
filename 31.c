@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main()
 {
-char s;
+char a;
 printf("enter the string");
-scanf("%s",s);
+scanf("%s",a);
 printf("length is %d",strlen(s));
 return 0;
 }
