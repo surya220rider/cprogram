@@ -1,14 +1,14 @@
 #include<stdio.h>
 int main() 
 {
-int n,a=0,b=0,c;
+int n,a=0,b=0,i;
 printf("Enter a   number:");
 scanf("%d",&n);
-for(c=0;c<n;c++)
+for(i=0;i<n;i++)
 {
-if(c<==1)
+if(i<==1)
 {
-d=c;
+d=i;
 else
 {
 d=a+b;
