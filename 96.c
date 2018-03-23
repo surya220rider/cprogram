@@ -16,9 +16,9 @@ break;
 }
 (flag==1)
 {
-printf("composite number");
+printf("It is a composite number");
 }
 else
-printf("not a composite number");
+printf("It is not a composite number");
 getch();
 }
